@@ -6,4 +6,4 @@ This module is responsible for handling live updates to the scoreboard on our we
 
 ## Diagram
 
-[View Diagram](./Diagram.drawio.svg)
+![View Diagram](./Diagram.drawio.svg)
